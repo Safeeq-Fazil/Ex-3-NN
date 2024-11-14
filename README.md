@@ -1,5 +1,5 @@
-### ENTER YOUR NAME : Safeeq Fazil A
-### ENTER YOUR REGISTER NO : 212222240086
+### NAME : Safeeq Fazil A
+### REGISTER NO : 212222240086
 ### EX. NO.3
 ### DATE:
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
